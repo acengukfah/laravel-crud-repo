@@ -67,7 +67,7 @@
         @yield('container')
     </div>
     <div class=" footer-copyright text-center py-3">
-        © 2019 Copyright Made By: <a href="https://www.linked.in/agungukfah">Agung Fitrah Ramadhana Ukfah - 18523178</a>
+        © 2019 Copyright Made By: fsociety Dev Team</a>
     </div>
 
     <!-- Optional JavaScript -->
