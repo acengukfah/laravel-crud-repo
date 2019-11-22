@@ -29,7 +29,7 @@
                 +Tambah Barang
       </button>
 
-        {{-- Modal tambah kategori --}}
+        {{-- Modal tambah Barang --}}
         <div class="modal fade" id="modalTambahKategori" tabindex="-1" role="dialog"
             aria-labelledby="modalTambahBarang" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered" role="document">
