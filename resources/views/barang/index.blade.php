@@ -94,7 +94,7 @@
                     <button href="/barang/edit/{{$barang->id}}" class="btn btn-success bg-custom font-white d-sm-inline-block" data-toggle="modal" data-target="#modalEditBarang{{$barang->id}}">Edit</button>
                     <a href="/barang/delete/{{$barang->id}}" class="btn btn-danger bg-danger font-white">Delete</a>
 
-                    {{-- Modal tambah kategori --}}
+                    {{-- Modal Edit --}}
                     <div class="modal fade" id="modalEditBarang{{$barang->id}}" tabindex="-1" role="dialog"
                         aria-labelledby="modalEditBarang" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
